@@ -1,0 +1,43 @@
+.centered {
+    text-align: center;
+  }
+
+body{
+    background-color: #010001;
+}
+
+.games {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+
+p {
+    font-size: large;
+}
+
+h2 {
+    color: #fa5c5c;
+    font-weight: bold;
+}
+
+h1, h3, p {
+    color: whitesmoke;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    margin: 5px;
+    color: beige;
+}
+
