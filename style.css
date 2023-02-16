@@ -3,7 +3,8 @@
   }
 
 body{
-    background-color: #010001;
+    background-color: #010000;
+
 }
 
 .games {
@@ -11,7 +12,6 @@ body{
     justify-content: center;
     margin-top: 20px;
     margin-bottom: 40px;
-
 }
 
 p {
@@ -41,3 +41,6 @@ nav a {
     color: beige;
 }
 
+nav a:hover {
+    font-size: large;
+}
